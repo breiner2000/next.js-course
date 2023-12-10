@@ -1,0 +1,3 @@
+## to run this application 
+`npx json-server -w db.json -p 3500 -H 127.0.0.1`
+
